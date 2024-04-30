@@ -1,0 +1,47 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h1 {
+    background-color: #95A78D;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    background-color: #95A78D;
+    width: 300px;
+    margin:auto;
+    margin-top: 20px;
+}
+p {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    
+}
+
+ul li {
+    padding-bottom: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    background-color: #BD897E;
+    padding: 5px;
+    border: 1px solid ;
+
+
+
+    
+}
+
+ol li {
+    padding-bottom: 10px;
+
+}
